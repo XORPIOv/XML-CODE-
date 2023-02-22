@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product_lines>
+  <product_line>
+    <name>Cloud Services</name>
+    <description>Cloud computing services</description>
+    <products>
+      <product>
+        <name> Antivirus service </name>
+        <description>keep your security high</description>
+        <price>Starting at 30$ a month</price>
+      </product>
+      <product>
+        <name>system services</name>
+        <description>build your virtual system</description>
+        <price>Starting at $20 a month</price>
+      </product>
+      <product>
+  </product_line>
+  <product_line>
+        <name>Network Management</name>
+        <description>monitoring of network traffic</description>
+        <price>Starting at $500 a month</price
+      </product>
+      <product>
+        <name>Security Management</name>
+        <description>security management</description>
+        <price>Starting at $300 a month</price>
+      </product>
+    </products>
+  </product_line>
+</product_lines>
